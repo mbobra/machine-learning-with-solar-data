@@ -1,0 +1,23 @@
+If you make use of any of this code or examples in a scientific publication, please consider citing our paper:
+
+Monica G. Bobra and Stathis Ilonidis. “Predicting Coronal Mass Ejections Using Machine Learning Methods.” 2016, Astrophysical Journal, 821, 127.
+
+Bibtex entry:
+
+@ARTICLE{2016ApJ...821..127B,
+   author = {{Bobra}, M.~G. and {Ilonidis}, S.},
+    title = "{Predicting Coronal Mass Ejections Using Machine Learning Methods}",
+  journal = {\apj},
+archivePrefix = "arXiv",
+   eprint = {1603.03775},
+ primaryClass = "astro-ph.SR",
+ keywords = {Sun: activity, Sun: flares},
+     year = 2016,
+    month = apr,
+   volume = 821,
+      eid = {127},
+    pages = {127},
+      doi = {10.3847/0004-637X/821/2/127},
+   adsurl = {http://adsabs.harvard.edu/abs/2016ApJ...821..127B},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
