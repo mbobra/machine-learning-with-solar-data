@@ -1,0 +1,23 @@
+name: cme_svm
+
+channels:
+  - conda-forge
+
+dependencies:
+  - pip:
+    - numpy==1.17
+    - matplotlib
+    - pandas==0.25.1
+    - mpld3
+    - requests
+    - urllib
+    - sklearn==0.21.3
+    - sunpy==1.0.0
+    - suds-jurko
+    - astropy
+    - drms==0.5.7
+    - datetime
+    - lime
+    - jupyter_contrib_nbextensions
+    - IPython
+    - scipy
