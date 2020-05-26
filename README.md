@@ -8,7 +8,7 @@ We use machine-learning algorithms from [scikit-learn](http://scikit-learn.org/s
 
 ### What is in this repository?
 
-* The Jupyter notebook `cme_svm.ipynb` contains the original code we used to conduct this study. Since this study was published in 2016, the notebook uses now outdated packages running on Python 2.7. In the spirit of academic preservation and reproducibility, we have not touched this code since publication. This notebook, and additional data files, is also permanently available in the [Stanford Digital Repository](https://purl.stanford.edu/wt605kh4712). 
+* The Jupyter notebook `cme_svm.ipynb` contains the original code we used to conduct this study. Since this study was published in 2016, the notebook uses now outdated packages running on Python 2.7. In the spirit of academic preservation and reproducibility, we have not touched this code since publication. To reinstate the exact environment used to conduct the original analysis, use the `environment.yml` file included in this repository. This notebook, additional data files, and the environment file are also permanently available in the [Stanford Digital Repository](https://purl.stanford.edu/wt605kh4712). 
 
 * The Jupyter notebook `cme_svm_updated_for_pyastro.ipynb` contains updated code, using Python 3.7 and the most recent versions of the imported packages. 
 
